@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "302551530505",
+    "project_id": "rateopolis",
+    "storage_bucket": "rateopolis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302551530505:android:c5ce396e8bd4b40826ccd8",
+        "android_client_info": {
+          "package_name": "com.example.rateopolis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302551530505-ikn3s5hcduu9a4k1ag0oc1prgl779ckv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2MjwKsI7ZWi9z0nC2d25AAQfrXxbyg30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302551530505-ikn3s5hcduu9a4k1ag0oc1prgl779ckv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
